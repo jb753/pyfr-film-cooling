@@ -1,3 +1,4 @@
-*.pyfrm
+examples/**/*.pyfrm
+examples/**/*.pyfrs
 *.vtu
 tags
